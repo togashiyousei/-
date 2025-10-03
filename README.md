@@ -58,7 +58,7 @@
 <img width="751" height="539" alt="スクリーンショット 2025-10-02 132456" src="https://github.com/user-attachments/assets/85dc4fc2-19fe-4008-869b-8212ca27893b" />
 
 - 成功の場合:
-- ご自身の目で　「製作者はまだ一回も成功していません」：
+　ご自身の目で　「製作者はまだ一回も成功していません」：
   
 - 失敗の場合：
 <img width="820" height="487" alt="スクリーンショット 2025-10-02 140841" src="https://github.com/user-attachments/assets/7ad6db25-8ef9-4ea9-94e9-241d8a8e2cd9" />
