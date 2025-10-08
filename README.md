@@ -54,6 +54,8 @@
 ---
 
 ## スクリーンショット / GIF
-![作品のスクショ] <img width="720" height="488" alt="スクリーンショット 2025-10-02 140901" src="https://github.com/user-attachments/assets/65f778c6-cb47-49f6-b34b-c2a778cf6261" />
+![作品のスクショ] 
+
+<img width="720" height="488" alt="スクリーンショット 2025-10-02 140901" src="https://github.com/user-attachments/assets/65f778c6-cb47-49f6-b34b-c2a778cf6261" />
 
 <img width="751" height="539" alt="スクリーンショット 2025-10-02 132456" src="https://github.com/user-attachments/assets/cd3d0e99-6600-4ce7-be6f-1a190093bdd4" />
