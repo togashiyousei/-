@@ -58,4 +58,7 @@
 
 <img width="751" height="539" alt="スクリーンショット 2025-10-02 132456" src="https://github.com/user-attachments/assets/85dc4fc2-19fe-4008-869b-8212ca27893b" />
 
+![processing課題GIF画像](https://github.com/user-attachments/assets/99813322-c7cc-4963-8789-531b9b2b39ea)
+
+
 
