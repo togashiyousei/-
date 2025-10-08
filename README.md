@@ -58,6 +58,3 @@
 <img width="720" height="488" alt="スクリーンショット 2025-10-02 140901" src="https://github.com/user-attachments/assets/65f778c6-cb47-49f6-b34b-c2a778cf6261" />
 
 <img width="751" height="539" alt="スクリーンショット 2025-10-02 132456" src="https://github.com/user-attachments/assets/85dc4fc2-19fe-4008-869b-8212ca27893b" />
-
--失敗した場合：
-<img width="820" height="487" alt="スクリーンショット 2025-10-02 140841" src="https://github.com/user-attachments/assets/df5fdb25-58b0-491a-b778-dc317fe47b17" />
